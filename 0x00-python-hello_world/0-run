@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-print("This is my first python code")
+#!/bin/bash
+python3 $PYFILE
